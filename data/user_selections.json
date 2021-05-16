@@ -1,0 +1,13 @@
+[{
+	"userID": 1,
+	"email": "neetushatranwala@gmail.com",
+	"district_selection": 123,
+	"pincode_selection": null
+},
+{
+	"userID": 2,
+	"email": "dgppunjabda@gmail.com",
+	"district_selection": null,
+	"pincode_selection": 110088
+}
+]
